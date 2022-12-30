@@ -2,3 +2,4 @@
 <div align=center> 
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
   <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwon-HyeongIl&layout=compact">
