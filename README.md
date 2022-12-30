@@ -1,8 +1,9 @@
-<div align=center><h1>📚 STACKS</h1></div>
-<div align=center> 
+<div align=left><h1>📚 STACKS</h1></div>
+<div align=left> 
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
   <br><br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwon-HyeongIl&layout=compact">
+ <div align=right>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwon-HyeongIl&layout=compact">
   <br><br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=llioopv)](https://solved.ac/llioopv)
