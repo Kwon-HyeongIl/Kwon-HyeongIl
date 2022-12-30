@@ -8,4 +8,4 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=llioopv)](https://solved.ac/llioopv)
 <div align=right>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=llioopv">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=llioopv">https://solved.ac/llioopv
