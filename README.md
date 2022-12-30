@@ -2,8 +2,10 @@
 <div align=left> 
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
   <br><br><br>
- <div align=right>
+<div align=right>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwon-HyeongIl&layout=compact">
   <br><br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=llioopv)](https://solved.ac/llioopv)
+<div align=right>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=llioopv">
