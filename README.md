@@ -17,7 +17,7 @@
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwon-HyeongIl&layout=compact">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwon-HyeongIl&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>  
   
   ### 📚 TECH STACK 📚
  
