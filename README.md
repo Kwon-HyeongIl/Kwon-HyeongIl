@@ -5,7 +5,7 @@
 ## 🔥 KWON HYEONGIL 🔥 
   
 
-  <a href="https://llioopv.tistory.com"><img src="https://img.shields.io/badge/-TechBlog-2E2E2E?style=flat-square&logo=Tistory&logoColor=white&"/></a> <a href="mailto:llioopv@naver.com"><img src="https://img.shields.io/badge/-Mail-20C997?style=flat-square&logo=Naver&logoColor=white&"/></a>
+  <a href="https://llioopv.tistory.com"><img src="https://img.shields.io/badge/-TechBlog-2E2E2E?style=flat-square&logo=Tistory&logoColor=white&"/></a> <a href="mailto:llioopv@naver.com"><img src="https://img.shields.io/badge/-Mail-04B404?style=flat-square&logo=Naver&logoColor=white&"/></a>
   
   🎓 컴퓨터공학 전공  
  
